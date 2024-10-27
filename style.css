@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: #e6f0ff;
+}
+.main-poster{
+   height:500px;
+   width: 800px;
+   margin: 50px 350px;
+   
+}
+.start-btn{
+    height: 50px;
+    width: 130px;
+    font-size: 22px;
+    margin: -20px 670px;
+    border: none;
+    border-radius: 15px;
+    background-color:#ff0000;
+    color: white;
+    cursor: pointer;
+}
+.start-btn:hover{
+   box-shadow: 0 5px 9px 3px #1a0000;
+}
+.dice-container{
+    border: 5px double #cc0000;
+    border-radius: 10px;
+    width: 450px;
+    height: 530px;
+    margin: 40px 500px;
+    margin-top: 10px;
+}
+.dice-img{
+    height: 250px;
+    width: 250px;
+    margin: 100px 100px;
+}
+.dice-btn{
+    width: 170px;
+    margin-left: 140px;
+    cursor: pointer;
+}
+.heading{
+    text-align: center;
+    margin:30px;
+    margin-left: 630px;
+    border-radius:30px;
+    background-color: #ff8080;
+    color: white;
+    padding: 20px;
+    width: fit-content;
+
+}
